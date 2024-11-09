@@ -17,3 +17,24 @@ Para la clase C utilizan [red-red-red-host] utilizando 24 bits red y 8 bits host
  Su IP es:  192.168.2.145 esta IP pertenece a la clase c
 
 5)subir a GitHub
+
+6)agregar siguiente contenido
+
+7) Los recursos básicos que se utilizan para crear una máquina virtual son:
+Para crear una maquina utilizamos virtual box se elige un nombre la carpeta donde lo vamos a crear y el primer recurso es la imagen ISO que es un archivo informático que tiene la copia exacta de un sistema de archivos, se le asigna la cantidad de memoria RAM a la máquina virtual utilizan la RAM instalada en tu pc se recomienda usar la mitad, después esta utiliza los procesadores(CPU) también dependiendo de lo que tenga tu pc.
+
+8)Los servicios que podemos utilizar para la nube tipo PaaS son los sistemas operativos, herramientas de desarrollo, administración de base de datos por ejemplo si queremos crear una aplicación de gestión de tareas
+
+9)Rama:
+Repositorio: es un proyecto que contiene múltiples archivos. Nuestro repositorio contendrá archivos basados en código. Hay dos maneras de alojar tus repositorios en la nube (en línea) o en tu servidor (fuera de línea)
+
+Las tres áreas son Área de trabajo, Área de preparación, repositorio 
+
+Área de trabajo: donde nosotros trabajamos directamente nuestros archivos creando repositorios y nuestros archivos en nuestra carpeta local.
+
+Área de preparación: donde utilizamos el comando git add para preparar los archivos que vamos a subir a la nube y git status para verificar que los archivos estén actualizados.
+
+Repositorio: base de datos de git donde se almacena todo el historial incluyendo los commits realizados a lo largo del tiempo, cuando haces un commit los archivos en el área de preparación son grabados en el repositorio local.
+
+10)guardar archivo y subir al repositorio con el comentario entrega final.
+
