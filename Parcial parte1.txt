@@ -1,0 +1,19 @@
+1)a) La capa aplicación que se encarga los servicios de red a aplicaciones utiliza los protocolos de red: por ejemplo (https/xmpp/ftp)
+
+1)b) La capa transporte que se encarga de la conexión de extremo a extremo a extremo y la confiabilidad utiliza los protocolos: (TCP/UDP)
+
+2) la dirección IP tiene 32 bits usualmente representado en decimal. Esta se divide en octetos (8,8,8,8) por ejemplo: 145.120.40.10 Como tenemos 4 octetos en una dirección IP, entonces tenemos 8*4=32 bits en una dirección IP
+
+-El red permite identificar y direccionar los paquetes de datos a una red específica, y se usa principalmente para el enrutamiento
+-El host identifica de manera única a un dispositivo o equipo dentro de una red específica. En el contexto de una red, un host puede ser cualquier dispositivo conectado
+La cantidad de bits de red y host dependen de la clase a la que pertenece la IP
+Para la clase A utilizan [red-host-host-host] utilizando 8 bits red y 24 bits host la clase A va desde 0-127
+Para la clase B utilizan [red-red-host-host] utilizando 16 bits red y 16 bits host la clase B va desde 127-191
+Para la clase C utilizan [red-red-red-host] utilizando 24 bits red y 8 bits host la clase C va desde 192-223
+
+3) 3 componentes que se pueden conectar a una red PAN (PERSONAL AREA NETWORK):  pc, Tablet, telefono
+
+4) estoy conectado a FRTDF ALUMNOS. 
+ Su IP es:  192.168.2.145 esta IP pertenece a la clase c
+
+5)subir a GitHub
